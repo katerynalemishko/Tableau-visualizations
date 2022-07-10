@@ -10,20 +10,16 @@ Who are the Nobel Prize winners?
 <a href="https://public.tableau.com/app/profile/kate1758/viz/Nobel_prizes/WhoareNobelPrizewinners" target="_blank"><img src='images/Nobel-prize-winners.png' height = 200>
 
 ## Churn Analysis
-
-# Overview
+Overview
 
 <a href="https://public.tableau.com/app/profile/kate1758/viz/ChurnAnalysis_16573217917860/ChurnAnalysis" target="_blank"><img src='images/Churn-analysis-1.png' height = 210>
-
-# Age and Groups 
+Age and Groups 
 
 <a href="https://public.tableau.com/app/profile/kate1758/viz/ChurnAnalysis_16573217917860/ChurnAnalysis" target="_blank"><img src='images/Churn-analysis-2.png' height = 210>
-
-# Data plan and International calls
+Data plan and International calls
 
 <a href="https://public.tableau.com/app/profile/kate1758/viz/ChurnAnalysis_16573217917860/ChurnAnalysis" target="_blank"><img src='images/Churn-analysis-3.png' height = 210>
-
-# Payment and contract type
+Payment and contract type
  
 <a href="https://public.tableau.com/app/profile/kate1758/viz/ChurnAnalysis_16573217917860/ChurnAnalysis" target="_blank"><img src='images/Churn-analysis-4.png' height = 210>
 
