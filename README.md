@@ -5,7 +5,7 @@
 ### Here I display some static images of my Tableau dashboards.  Click on the images and they will take you to the corresponding tableau dashboard. Try it out! ###
 
 ## World Happiness Report 2020
-[![](/images/World_Happiness_Report.png)](https://public.tableau.com/profile/teyang.lau#!/vizhome/HowHappyAreWe_15897258564380/Dashboard1)
+[![](/images/World_Happiness_Report.png)](https://public.tableau.com/app/profile/kate1758/viz/Nobel_prizes/WhoareNobelPrizewinners)
 
 ## Pineapples on Pizza: Mobile Version
 <a href="https://public.tableau.com/profile/teyang.lau#!/vizhome/PizzaonPineapples/Dashboard2"><img src='images/pineapples.jpg' height = 700>
