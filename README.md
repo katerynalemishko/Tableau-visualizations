@@ -5,5 +5,5 @@
 ### Here I display some static images of my Tableau dashboards.  Click on the images and they will take you to the corresponding tableau dashboard. Try it out! ###
 
 ## Nobel Prize Winners
-<a href="https://public.tableau.com/app/profile/kate1758/viz/Nobel_prizes/WhoareNobelPrizewinners"><img src='images/Nobel-prize-winners.png' height = 700>
+<a href="https://public.tableau.com/app/profile/kate1758/viz/Nobel_prizes/WhoareNobelPrizewinners"><img src='images/Nobel-prize-winners.png' height = 200>
 
