@@ -15,7 +15,7 @@ Overview
 
 <a href="https://public.tableau.com/app/profile/kate1758/viz/ChurnAnalysis_16573217917860/ChurnAnalysis" target="_blank"><img src='images/Churn-analysis-1.png' height = 210>
 
-Age and Groups 
+# Age and Groups 
 
 <a href="https://public.tableau.com/app/profile/kate1758/viz/ChurnAnalysis_16573217917860/ChurnAnalysis" target="_blank"><img src='images/Churn-analysis-2.png' height = 210>
 
