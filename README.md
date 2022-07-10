@@ -2,7 +2,7 @@
 [![made-with-tableau](https://img.shields.io/badge/Made%20with-Tableau-lightblue.svg)](https://www.tableau.com/)
 
 
-## Click on the images and they will take you to the corresponding tableau dashboard or story. Try it out! ##
+## Click on the images and they will take you to the corresponding tableau dashboard. Try it out! ##
 
 ## Nobel Prize Winners 
 Who are the Nobel Prize winners? 
