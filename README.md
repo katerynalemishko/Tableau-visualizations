@@ -15,14 +15,17 @@ Overview
 
 <a href="https://public.tableau.com/app/profile/kate1758/viz/ChurnAnalysis_16573217917860/ChurnAnalysis" target="_blank"><img src='images/Churn-analysis-1.png' height = 210>
 
+ ##
  Age and Groups 
 
 <a href="https://public.tableau.com/app/profile/kate1758/viz/ChurnAnalysis_16573217917860/ChurnAnalysis" target="_blank"><img src='images/Churn-analysis-2.png' height = 210>
 
+ ##
  Data plan and International calls
 
 <a href="https://public.tableau.com/app/profile/kate1758/viz/ChurnAnalysis_16573217917860/ChurnAnalysis" target="_blank"><img src='images/Churn-analysis-3.png' height = 210>
 
+ ##
  Payment and contract type
  
 <a href="https://public.tableau.com/app/profile/kate1758/viz/ChurnAnalysis_16573217917860/ChurnAnalysis" target="_blank"><img src='images/Churn-analysis-4.png' height = 210>
