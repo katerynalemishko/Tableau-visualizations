@@ -1,4 +1,4 @@
-# My Tableau Dashboards Visualizations
+# My Tableau Dashboards & Visualizations
 [![made-with-tableau](https://img.shields.io/badge/Made%20with-Tableau-lightblue.svg)](https://www.tableau.com/)
 
 
