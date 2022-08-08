@@ -9,6 +9,11 @@ Who are the Nobel Prize winners?
 
 <a href="https://public.tableau.com/app/profile/kate1758/viz/Nobel_prizes/WhoareNobelPrizewinners" target="_blank"><img src='images/Nobel-prize-winners.png' height = 200>
 
+## Michael Schumacher
+Michael Schumacher's results in Formula 1 
+
+<a href="https://public.tableau.com/app/profile/kate1758/viz/Michael_Schumacher/Results_in_seasons" target="_blank"><img src='images/Schumacher.png' height = 200>
+
 ## Churn Analysis
 
 Overview
