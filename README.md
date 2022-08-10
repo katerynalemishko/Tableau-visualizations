@@ -5,12 +5,12 @@
 ## Click on the images and they will take you to the corresponding tableau dashboards. Try it out! ##
 
 ## Michael Schumacher
-## 1
+### 1
 Michael Schumacher's results in different Grand Prix 
 
 <a href="https://public.tableau.com/app/profile/kate1758/viz/Michael_Schumacher/Results_in_grand_prix" target="_blank"><img src='images/Grandprix.png' height = 200>
  
-## 2
+### 2
 Michael Schumacher's results in Formula 1 
 
 <a href="https://public.tableau.com/app/profile/kate1758/viz/Michael_Schumacher/Results_in_seasons" target="_blank"><img src='images/Schumacher.png' height = 200>
@@ -23,22 +23,22 @@ Who are the Nobel Prize winners?
 
  
 ## Churn Analysis
-
+### 1
 Overview
 
 <a href="https://public.tableau.com/app/profile/kate1758/viz/ChurnAnalysis_16573217917860/ChurnAnalysis" target="_blank"><img src='images/Churn-analysis-1.png' height = 210>
 
- ##
+ ### 2
  Age and Groups 
 
 <a href="https://public.tableau.com/app/profile/kate1758/viz/ChurnAnalysis_16573217917860/ChurnAnalysis" target="_blank"><img src='images/Churn-analysis-2.png' height = 210>
 
- ##
+ ### 3
  Data plan and International calls
 
 <a href="https://public.tableau.com/app/profile/kate1758/viz/ChurnAnalysis_16573217917860/ChurnAnalysis" target="_blank"><img src='images/Churn-analysis-3.png' height = 210>
 
- ##
+ ### 4
  Payment and contract type
  
 <a href="https://public.tableau.com/app/profile/kate1758/viz/ChurnAnalysis_16573217917860/ChurnAnalysis" target="_blank"><img src='images/Churn-analysis-4.png' height = 210>
